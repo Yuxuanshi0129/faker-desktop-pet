@@ -1,0 +1,7 @@
+{
+  "settings_open_requested": true,
+  "refresh_button_invoked": false,
+  "reason": "Native accessibility exposed window controls but no Pets/Refresh controls. Use Settings > Pets > Refresh if the running app retains the old image.",
+  "live_pointer_ui_tested": false,
+  "actual_component_pointer_logic_tested": true
+}

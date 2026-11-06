@@ -1,0 +1,6 @@
+{
+  "status": "pass",
+  "notes": "Idle first frame is shush; hover/jumping is thumbs-up and frame 5 closes the loop. Identity, logo, alpha, frame counts and bounds pass. Actual installed component evaluated: pointer enter jumping; pointer leave idle.",
+  "runtime_ui_hover_tested": false,
+  "completed_at": "2026-10-04T05:18:07.335815+00:00"
+}

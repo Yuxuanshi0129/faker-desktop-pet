@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "alpha_threshold": 128,
+  "rows": [
+    {
+      "state": "waiting",
+      "frames": 6,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "waving",
+      "frames": 4,
+      "binary_alpha_verified": true
+    }
+  ],
+  "other_previews": "preserved byte-for-byte from validated source pet"
+}

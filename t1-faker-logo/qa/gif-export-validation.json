@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "alpha_threshold": 128,
+  "transparent_palette_index": 0,
+  "notes": "Near-transparent resampling pixels remain invisible in GIF previews. Source PNG/WebP alpha preserved.",
+  "rows": [
+    {
+      "state": "idle",
+      "frames": 6,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "running-right",
+      "frames": 8,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "running-left",
+      "frames": 8,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "waving",
+      "frames": 4,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "jumping",
+      "frames": 5,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "failed",
+      "frames": 8,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "waiting",
+      "frames": 6,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "running",
+      "frames": 6,
+      "binary_alpha_verified": true
+    },
+    {
+      "state": "review",
+      "frames": 6,
+      "binary_alpha_verified": true
+    }
+  ]
+}

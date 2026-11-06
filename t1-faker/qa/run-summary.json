@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "completed_at": "2026-10-04T05:18:07.336375+00:00",
+  "run_dir": "t1-faker-idle-hover",
+  "spritesheet": "t1-faker-idle-hover\\final\\spritesheet-idle-hover.webp",
+  "portrait": "t1-faker-idle-hover\\final\\faker.png",
+  "package": "%USERPROFILE%\\.codex\\pets\\t1-faker",
+  "archive": "Faker-默认嘘悬停点赞.zip",
+  "mapping": {
+    "idle": "shush",
+    "pointer-hover/jumping": "thumbs-up"
+  },
+  "app_component_verified": true,
+  "runtime_playback_tested": false,
+  "states": 9,
+  "frames": 57,
+  "validation": "t1-faker-idle-hover\\final\\validation.json",
+  "contact_sheet": "t1-faker-idle-hover\\qa\\contact-sheet.png",
+  "backup": "Faker-默认悬停修改前备份.zip"
+}

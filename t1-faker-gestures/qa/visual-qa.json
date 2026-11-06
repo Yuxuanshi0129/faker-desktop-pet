@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "completed_at": "2026-10-04T04:07:24.244925+00:00",
+  "changed_rows": [
+    "waiting",
+    "waving"
+  ],
+  "mapping": {
+    "waiting": "shush",
+    "waving": "thumbs-up"
+  },
+  "notes": "Clear hand poses, stable scale and coherent loops. T1 identity and outfit intact; no clipping. Both stable-slot warnings accepted. Seven other rows are pixel-identical. GIF frame timings and binary alpha verified.",
+  "preview_verification": "Full frame sequences and timing; no direct runtime playback.",
+  "repair_rows": []
+}

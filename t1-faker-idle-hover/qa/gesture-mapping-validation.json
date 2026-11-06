@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "idle": "6 exact approved shush frames",
+  "jumping": "5 exact approved thumbs-up frames, indices 0,1,2,3,0",
+  "static_first_frame": "shush",
+  "hover_first_frame": "thumbs-up"
+}

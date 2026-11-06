@@ -1,0 +1,19 @@
+{
+  "app_version": "26.930.3930.0",
+  "source": "avatar-mascot-button-2b8364963475.js",
+  "state_selection": "p=u??(d?`jumping`:te)",
+  "default_state": "te=c===void 0?`idle`:c",
+  "pointer_enter": "y=()=>{f(!0)}",
+  "pointer_leave": "b=()=>{f(!1)}",
+  "hover_state": "jumping",
+  "idle_frames": 6,
+  "hover_frames": 5,
+  "thumbs_up_source_frame_indices": [
+    0,
+    1,
+    2,
+    3,
+    0
+  ],
+  "note": "Final repeated approved start frame closes the existing thumbs-up loop; no artwork regenerated."
+}

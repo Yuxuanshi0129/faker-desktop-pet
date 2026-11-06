@@ -1,0 +1,37 @@
+[
+  {
+    "state": "idle",
+    "source": "existing validated atlas",
+    "frames": 6
+  },
+  {
+    "state": "running-right",
+    "source": "existing validated atlas",
+    "frames": 8
+  },
+  {
+    "state": "running-left",
+    "source": "existing validated atlas",
+    "frames": 8
+  },
+  {
+    "state": "jumping",
+    "source": "existing validated atlas",
+    "frames": 5
+  },
+  {
+    "state": "failed",
+    "source": "existing validated atlas",
+    "frames": 8
+  },
+  {
+    "state": "running",
+    "source": "existing validated atlas",
+    "frames": 6
+  },
+  {
+    "state": "review",
+    "source": "existing validated atlas",
+    "frames": 6
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "completed_at": "2026-10-04T04:07:24.245410+00:00",
+  "run_dir": "t1-faker-gestures",
+  "generation_mode": "built-in imagegen",
+  "spritesheet": "t1-faker-gestures\\final\\spritesheet.webp",
+  "portrait": "t1-faker\\final\\faker.png",
+  "validation": "t1-faker-gestures\\final\\validation.json",
+  "contact_sheet": "t1-faker-gestures\\qa\\contact-sheet.png",
+  "review": "t1-faker-gestures\\qa\\review.json",
+  "visual_qa": "t1-faker-gestures\\qa\\visual-qa.json",
+  "package": "%USERPROFILE%\\.codex\\pets\\t1-faker",
+  "archive": "Faker-嘘与点赞桌宠.zip",
+  "backup": "Faker-替换嘘和点赞前备份.zip",
+  "published_workspace": "t1-faker",
+  "replacements": {
+    "waiting": "shush",
+    "waving": "thumbs-up"
+  },
+  "preserved_rows": 7,
+  "states": 9,
+  "frames": 57,
+  "unused_cells": 15,
+  "runtime_playback_tested": false
+}

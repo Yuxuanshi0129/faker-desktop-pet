@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "completed_at": "2026-10-04T03:30:24.027013+00:00",
+  "run_dir": "t1-faker-logo",
+  "generation_mode": "built-in imagegen",
+  "spritesheet": "t1-faker-logo\\final\\spritesheet.webp",
+  "portrait": "t1-faker-logo\\final\\faker.png",
+  "validation": "t1-faker-logo\\final\\validation.json",
+  "contact_sheet": "t1-faker-logo\\qa\\contact-sheet.png",
+  "review": "t1-faker-logo\\qa\\review.json",
+  "visual_qa": "t1-faker-logo\\qa\\visual-qa.json",
+  "package": "%USERPROFILE%\\.codex\\pets\\t1-faker",
+  "archive": "Faker-T1队标版.zip",
+  "published_workspace": "t1-faker",
+  "backup": "Faker-无队标备份.zip",
+  "states": 9,
+  "frames": 57,
+  "unused_cells": 15,
+  "edit": "White official T1 chest logo added to main portrait and all animation states.",
+  "runtime_playback_tested": false,
+  "repairs": [
+    "Left row alpha repair through imagegen",
+    "Stable-slot extraction preserves jump arc",
+    "GIF export uses reserved transparent palette index and thresholded alpha"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "completed_at": "2026-10-04T03:40:56.052404+00:00",
+  "visual_review": "Both full-body illustrations match the established Faker identity, glasses, hair, outfit and white T1 logo. Index-to-lips and single thumbs-up gestures are unambiguous; expressions are distinct.",
+  "transparent_pngs": true,
+  "image_size": [
+    1205,
+    1306
+  ],
+  "deliverables": [
+    "final/faker-shush.png",
+    "final/faker-thumbs-up.png",
+    "final/faker-emotes-preview.png"
+  ],
+  "generation_mode": "built-in imagegen",
+  "scope": "Two standalone expression/gesture designs"
+}

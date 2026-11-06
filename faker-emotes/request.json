@@ -1,0 +1,16 @@
+{
+  "requested_assets": [
+    "Faker Worlds-inspired shush",
+    "Faker classic thumbs up"
+  ],
+  "style": "existing T1-logo chibi, full body, transparent PNG",
+  "generation_mode": "built-in imagegen",
+  "identity_reference": "t1-faker-logo\\final\\faker.png",
+  "logo_reference": "t1-logo-assets\\t1-official.png",
+  "scope": "Two standalone expressive pose designs",
+  "research_context": [
+    "https://www.youtube.com/watch?v=mf72jNoMqL0",
+    "https://www.invenglobal.com/articles/6950/all-stars-skt-t1-faker-describes-his-feelings-on-las-vegas-captain-jack-and-meeting-bang"
+  ],
+  "note": "Shush year/frame unspecified by user; render the described index-to-lips gesture in the existing chibi design."
+}

@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.venv/
+.venv-imagegen/
+node_modules/
+__pycache__/
+*.pyc
+*.pyd

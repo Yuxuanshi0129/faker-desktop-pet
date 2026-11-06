@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "source": "Installed avatar-mascot-button component evaluated with a minimal React render harness",
+  "sequence": [
+    "idle",
+    "pointer enter",
+    "jumping",
+    "pointer leave",
+    "idle"
+  ],
+  "live_app_pointer_tested": false
+}

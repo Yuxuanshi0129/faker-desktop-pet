@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "completed_at": "2026-10-04T03:30:24.026344+00:00",
+  "identity_and_poses_preserved": true,
+  "states": 9,
+  "frames": 57,
+  "logo_orientation": "Correct in both directions; natural perspective and occlusion. Left row independently edited.",
+  "transparency": "Native RGBA and WebP validated; GIF palette alpha repaired and masks exhaustively verified for all frames.",
+  "preview_review": "Full frame sequences and timings; direct animated playback unavailable.",
+  "stable_slot_warnings": "Accepted after visual and frame-bound review.",
+  "repair_rows": []
+}

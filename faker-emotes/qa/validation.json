@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "assets": [
+    {
+      "asset": "faker-shush",
+      "file": "faker-emotes\\final\\faker-shush.png",
+      "size": [
+        1205,
+        1306
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 1140869,
+      "partial_alpha_pixels": 431442,
+      "transparent_rgb_residue": 0
+    },
+    {
+      "asset": "faker-thumbs-up",
+      "file": "faker-emotes\\final\\faker-thumbs-up.png",
+      "size": [
+        1205,
+        1306
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 1128693,
+      "partial_alpha_pixels": 443950,
+      "transparent_rgb_residue": 0
+    }
+  ]
+}

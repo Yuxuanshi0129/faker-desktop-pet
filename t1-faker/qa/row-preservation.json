@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "rows": [
+    {
+      "state": "idle",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "running-right",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "running-left",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "waving",
+      "expected_changed": true,
+      "identical_to_original": false
+    },
+    {
+      "state": "jumping",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "failed",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "waiting",
+      "expected_changed": true,
+      "identical_to_original": false
+    },
+    {
+      "state": "running",
+      "expected_changed": false,
+      "identical_to_original": true
+    },
+    {
+      "state": "review",
+      "expected_changed": false,
+      "identical_to_original": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "faker-shush": {
+    "status": "complete",
+    "source_path": "%USERPROFILE%\\.codex\\generated_images\\01a104fa-8e9e-7431-a151-c04ca196de4f\\exec-173fd833-0e7f-4aee-b6de-c5b695f02c4c.png",
+    "completed_at": "2026-10-04T03:37:36.506453+00:00",
+    "qa_note": "Right index finger touches lips; identity, T1 uniform and true alpha verified."
+  },
+  "faker-thumbs-up": {
+    "status": "complete",
+    "source_path": "%USERPROFILE%\\.codex\\generated_images\\01a104fa-ec9a-7d53-a251-76394d1fcbff\\exec-0e2af5d0-d4dc-4823-beed-3791173238ba.png",
+    "completed_at": "2026-10-04T03:38:59.440682+00:00",
+    "qa_note": "One clear thumbs-up, same character, real alpha verified."
+  }
+}
